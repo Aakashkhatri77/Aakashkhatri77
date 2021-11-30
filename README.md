@@ -8,12 +8,11 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 </p>
 
-<!-- <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a graduate Computer science student from Softwarica College.  C, C#, Nodejs, Javascript, HTML and React are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @MrAakash khatri</li>
   <li>❤️ I love Creating websites and Programming in C#.</li>
