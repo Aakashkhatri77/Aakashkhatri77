@@ -29,24 +29,15 @@ const aakash = {
   code: ["Javascript", "C#", "HTML", "CSS", "Nodejs"],
   askMeAbout: ["web dev", "frontend dev"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", React],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
       backend: [C#, "JS"],
   }
 }
 ```
-<!--
-**Aakashkhatri77/Aakashkhatri77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+#### My GitHub Data :octocat:
+> 🏆 420+ Contributions in the Year 2021
+ > 
+> 📜 400+ Commits on GitHub
+ > 
+> 🔑 200+ Contribution in Private Repos
+ > 
