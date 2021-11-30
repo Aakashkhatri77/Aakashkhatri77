@@ -5,7 +5,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/Aakashkhatri77">Aakash Khatri</a>'s Profile 👋</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;I'm+a+competitive+programmer;I'm+a+Android+developer" /></a>
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -26,7 +26,7 @@ I am a graduate Computer science student from Softwarica College.  C, C#, Nodejs
 ```javascript
 const aakash = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs"],
+  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs", "Kotlin"],
   askMeAbout: ["web dev", "frontend dev"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
