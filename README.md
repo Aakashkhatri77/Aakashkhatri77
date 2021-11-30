@@ -22,6 +22,18 @@ I am a graduate Computer science student from Softwarica College.  C, C#, Nodejs
   <li>🧐 Portfolio Website, https://aakashkhatri77.github.io/aakashkhatri.github.io/</li>
 </ul>
 
+#### A little more about me
+```javascript
+const aakash = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "C#", "HTML", "CSS", "Nodejs"],
+  askMeAbout: ["web dev", "frontend dev"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", React],
+      backend: [C#, "JS"],
+  }
+}
+```
 <!--
 **Aakashkhatri77/Aakashkhatri77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
