@@ -59,9 +59,16 @@ const aakash = {
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashkhatri77&theme=onedark" alt="Aakashkhatri77" />
 </p>
 
+
+
 #### Contribution Graph
 [![Aakash khatri's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aakashkhatri77&theme=react-dark)](https://github.com/Aakashkhatri77/github-readme-activity-graph)
 
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Aakashkhatri77/Aakashkhatri77/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
