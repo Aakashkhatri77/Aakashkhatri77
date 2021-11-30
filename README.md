@@ -45,6 +45,20 @@ const aakash = {
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakashkhatri77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrAakashkhatri77"></a></p>
 
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Aakashkhatri77&show_icons=true&include_all_commits=true&theme=onedark" alt="aakash's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aakashkhatri77&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashkhatri77&theme=onedark" alt="Aakashkhatri77" />
+</p>
+
 
 
 
