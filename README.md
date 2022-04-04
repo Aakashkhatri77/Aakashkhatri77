@@ -16,7 +16,7 @@ I am a graduate Computer science student from Softwarica College.  C, C#, Nodejs
 <ul>
   <li>👋 Hi, I’m @MrAakash khatri</li>
   <li>❤️ I love Creating websites and Programming in C#.</li>
-  <li>🌱 I’m currently learning Web Development, C#, SQL Server, OOP and JS.</li>
+  <li>🌱 I’m currently learning Web Development, C#, SQL Server, OOP and ASP.NET, MVC</li>
   <li>👯 I’m looking forward to collaborate on open source projects.</li>
   <li>   Outside tech, 📖 I love to read books, 🎵 listen to music, and 🌴 explore nature outdoors.</li>
   <li>🧐 Portfolio Website, https://aakashkhatri77.github.io/aakashkhatri.github.io/</li>
@@ -29,17 +29,11 @@ const aakash = {
   code: ["Javascript", "C#", "HTML", "CSS", "Nodejs", "Kotlin"],
   askMeAbout: ["web dev", "frontend dev"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: [C#, "JS"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","UIKIT","React"],
+      backend: [C#, ".Net", "SQL Server"],
   }
 }
 ```
-#### My GitHub Data :octocat:
-> 🏆 420+ Contributions in the Year 2021
- > 
-> 📜 400+ Commits on GitHub
- > 
-> 🔑 200+ Contribution in Private Repos
 
 #### Trophies
 
