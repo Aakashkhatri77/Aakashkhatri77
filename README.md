@@ -35,15 +35,6 @@ const aakash = {
 }
 ```
 
-
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri77&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
-</p>
-
-
-
-
 #### Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aakashkhatri77&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrAakashkhatri77"></a></p>
