@@ -50,7 +50,7 @@ const aakash = {
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Aakashkhatri77&show_icons=true&include_all_commits=true&theme=onedark" alt="aakash's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AakashKhatri77&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Aakash Khatr's Github Stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
